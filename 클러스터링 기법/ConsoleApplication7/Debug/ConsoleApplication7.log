@@ -1,0 +1,44 @@
+﻿  stdafx.cpp
+  ConsoleApplication7.cpp
+c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(46): error C2872: 'data': 모호한 기호입니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(23): note: 'XV data[150]'일 수 있습니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(46): note: 또는       'data'
+c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(48): error C2872: 'data': 모호한 기호입니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(23): note: 'XV data[150]'일 수 있습니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(48): note: 또는       'data'
+c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(63): error C2872: 'data': 모호한 기호입니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(23): note: 'XV data[150]'일 수 있습니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(63): note: 또는       'data'
+c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(65): error C2872: 'data': 모호한 기호입니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(23): note: 'XV data[150]'일 수 있습니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(65): note: 또는       'data'
+c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(76): error C2872: 'data': 모호한 기호입니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(23): note: 'XV data[150]'일 수 있습니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(76): note: 또는       'data'
+c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(89): error C2872: 'data': 모호한 기호입니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(23): note: 'XV data[150]'일 수 있습니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(89): note: 또는       'data'
+c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(94): error C2872: 'data': 모호한 기호입니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(23): note: 'XV data[150]'일 수 있습니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(94): note: 또는       'data'
+c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(96): error C2872: 'data': 모호한 기호입니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(23): note: 'XV data[150]'일 수 있습니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(96): note: 또는       'data'
+c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(122): error C2872: 'data': 모호한 기호입니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(23): note: 'XV data[150]'일 수 있습니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(122): note: 또는       'data'
+c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(124): error C2872: 'data': 모호한 기호입니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(23): note: 'XV data[150]'일 수 있습니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(124): note: 또는       'data'
+c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(136): error C2872: 'data': 모호한 기호입니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(23): note: 'XV data[150]'일 수 있습니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(136): note: 또는       'data'
+c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(138): error C2872: 'data': 모호한 기호입니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(23): note: 'XV data[150]'일 수 있습니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(138): note: 또는       'data'
+c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(170): error C2872: 'data': 모호한 기호입니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(23): note: 'XV data[150]'일 수 있습니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(170): note: 또는       'data'
+c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(172): error C2872: 'data': 모호한 기호입니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(23): note: 'XV data[150]'일 수 있습니다.
+  c:\users\god_mind\desktop\자료\클러스터링 기법\consoleapplication7\consoleapplication7.cpp(172): note: 또는       'data'

@@ -1,0 +1,36 @@
+C:\Users\김한별\Desktop\3학년2학기\아톰\산학실무\쉬운팀\Bam-C#\Backup\bin\Debug\Bam.exe
+C:\Users\김한별\Desktop\3학년2학기\아톰\산학실무\쉬운팀\Bam-C#\Backup\bin\Debug\Bam.pdb
+C:\Users\김한별\Desktop\3학년2학기\아톰\산학실무\쉬운팀\Bam-C#\Backup\obj\Debug\Bam.csprojAssemblyReference.cache
+C:\Users\김한별\Desktop\3학년2학기\아톰\산학실무\쉬운팀\Bam-C#\Backup\obj\Debug\Bam.Input.resources
+C:\Users\김한별\Desktop\3학년2학기\아톰\산학실무\쉬운팀\Bam-C#\Backup\obj\Debug\Bam.Properties.Resources.resources
+C:\Users\김한별\Desktop\3학년2학기\아톰\산학실무\쉬운팀\Bam-C#\Backup\obj\Debug\Bam.csproj.GenerateResource.cache
+C:\Users\김한별\Desktop\3학년2학기\아톰\산학실무\쉬운팀\Bam-C#\Backup\obj\Debug\Bam.csproj.CoreCompileInputs.cache
+C:\Users\김한별\Desktop\3학년2학기\아톰\산학실무\쉬운팀\Bam-C#\Backup\obj\Debug\Bam.exe
+C:\Users\김한별\Desktop\3학년2학기\아톰\산학실무\쉬운팀\Bam-C#\Backup\obj\Debug\Bam.pdb
+C:\Users\김한별\Desktop\Backup\bin\Debug\Bam.exe
+C:\Users\김한별\Desktop\Backup\bin\Debug\Bam.pdb
+C:\Users\김한별\Desktop\Backup\obj\Debug\Bam.csprojAssemblyReference.cache
+C:\Users\김한별\Desktop\Backup\obj\Debug\Bam.Input.resources
+C:\Users\김한별\Desktop\Backup\obj\Debug\Bam.Properties.Resources.resources
+C:\Users\김한별\Desktop\Backup\obj\Debug\Bam.csproj.GenerateResource.cache
+C:\Users\김한별\Desktop\Backup\obj\Debug\Bam.csproj.CoreCompileInputs.cache
+C:\Users\김한별\Desktop\Backup\obj\Debug\Bam.exe
+C:\Users\김한별\Desktop\Backup\obj\Debug\Bam.pdb
+C:\Users\mindo\Documents\카카오톡 받은 파일\Bam\bin\Debug\Bam.exe
+C:\Users\mindo\Documents\카카오톡 받은 파일\Bam\bin\Debug\Bam.pdb
+C:\Users\mindo\Documents\카카오톡 받은 파일\Bam\obj\Debug\Bam.csprojAssemblyReference.cache
+C:\Users\mindo\Documents\카카오톡 받은 파일\Bam\obj\Debug\Bam.Input.resources
+C:\Users\mindo\Documents\카카오톡 받은 파일\Bam\obj\Debug\Bam.Properties.Resources.resources
+C:\Users\mindo\Documents\카카오톡 받은 파일\Bam\obj\Debug\Bam.csproj.GenerateResource.cache
+C:\Users\mindo\Documents\카카오톡 받은 파일\Bam\obj\Debug\Bam.csproj.CoreCompileInputs.cache
+C:\Users\mindo\Documents\카카오톡 받은 파일\Bam\obj\Debug\Bam.exe
+C:\Users\mindo\Documents\카카오톡 받은 파일\Bam\obj\Debug\Bam.pdb
+C:\Users\God_mind\Desktop\자료\Bam\bin\Debug\Bam.exe
+C:\Users\God_mind\Desktop\자료\Bam\bin\Debug\Bam.pdb
+C:\Users\God_mind\Desktop\자료\Bam\obj\Debug\Bam.csprojAssemblyReference.cache
+C:\Users\God_mind\Desktop\자료\Bam\obj\Debug\Bam.Input.resources
+C:\Users\God_mind\Desktop\자료\Bam\obj\Debug\Bam.Properties.Resources.resources
+C:\Users\God_mind\Desktop\자료\Bam\obj\Debug\Bam.csproj.GenerateResource.cache
+C:\Users\God_mind\Desktop\자료\Bam\obj\Debug\Bam.csproj.CoreCompileInputs.cache
+C:\Users\God_mind\Desktop\자료\Bam\obj\Debug\Bam.exe
+C:\Users\God_mind\Desktop\자료\Bam\obj\Debug\Bam.pdb
