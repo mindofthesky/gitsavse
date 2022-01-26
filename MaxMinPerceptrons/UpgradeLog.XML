@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MaxMinPerceptrons">
+</Property><Property Name="솔루션 파일" Value="C:\Users\User\Desktop\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\MaxMinPerceptrons.sln">
+</Property><Property Name="사용자 옵션 파일" Value="C:\Users\User\Desktop\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\MaxMinPerceptrons.suo">
+</Property><Property Name="Date" Value="2015년 5월 7일 목요일">
+</Property><Property Name="Time" Value="오후 15:44">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MaxMinPerceptrons.sln" Description="파일을 C:\Users\User\Desktop\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\Backup\MaxMinPerceptrons.sln(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="" Source="MaxMinPerceptrons.suo" Description="파일을 C:\Users\User\Desktop\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\Backup\MaxMinPerceptrons.suo(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="MaxMinPerceptrons" Source="MaxMinPerceptrons\MaxMinPerceptrons.csproj" Description="프로젝트 파일을 C:\Users\User\Desktop\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\Backup\MaxMinPerceptrons\MaxMinPerceptrons.csproj(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="MaxMinPerceptrons" Source="MaxMinPerceptrons\MaxMinPerceptrons.csproj.user" Description="프로젝트 사용자 파일을 C:\Users\User\Desktop\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\Backup\MaxMinPerceptrons\MaxMinPerceptrons.csproj.user(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="MaxMinPerceptrons" Source="MaxMinPerceptrons\Form1.cs" Description="파일을 C:\Users\User\Desktop\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\Backup\MaxMinPerceptrons\Form1.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="MaxMinPerceptrons" Source="MaxMinPerceptrons\Form1.Designer.cs" Description="파일을 C:\Users\User\Desktop\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\Backup\MaxMinPerceptrons\Form1.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="MaxMinPerceptrons" Source="MaxMinPerceptrons\MaxMinClass.cs" Description="파일을 C:\Users\User\Desktop\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\Backup\MaxMinPerceptrons\MaxMinClass.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="MaxMinPerceptrons" Source="MaxMinPerceptrons\Program.cs" Description="파일을 C:\Users\User\Desktop\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\Backup\MaxMinPerceptrons\Program.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="MaxMinPerceptrons" Source="MaxMinPerceptrons\Properties\AssemblyInfo.cs" Description="파일을 C:\Users\User\Desktop\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\Backup\MaxMinPerceptrons\Properties\AssemblyInfo.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="MaxMinPerceptrons" Source="MaxMinPerceptrons\Properties\Resources.Designer.cs" Description="파일을 C:\Users\User\Desktop\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\Backup\MaxMinPerceptrons\Properties\Resources.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="MaxMinPerceptrons" Source="MaxMinPerceptrons\Properties\Settings.Designer.cs" Description="파일을 C:\Users\User\Desktop\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\Backup\MaxMinPerceptrons\Properties\Settings.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="MaxMinPerceptrons" Source="MaxMinPerceptrons\Properties\Settings.settings" Description="파일을 C:\Users\User\Desktop\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\Backup\MaxMinPerceptrons\Properties\Settings.settings(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="MaxMinPerceptrons" Source="MaxMinPerceptrons\Form1.resx" Description="파일을 C:\Users\User\Desktop\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\Backup\MaxMinPerceptrons\Form1.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="MaxMinPerceptrons" Source="MaxMinPerceptrons\Properties\Resources.resx" Description="파일을 C:\Users\User\Desktop\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\Backup\MaxMinPerceptrons\Properties\Resources.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="MaxMinPerceptrons" Source="MaxMinPerceptrons\MaxMinPerceptrons.csproj" Description="프로젝트를 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="MaxMinPerceptrons" Source="MaxMinPerceptrons\MaxMinPerceptrons.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MaxMinPerceptrons.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="MaxMinPerceptrons.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MaxMinPerceptrons" Source="MaxMinPerceptrons\MaxMinPerceptrons.csproj" Description="검사 완료: 프로젝트 파일을 업그레이드할 필요가 없습니다.">
+</Event></UpgradeLog>

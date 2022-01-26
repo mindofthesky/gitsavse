@@ -1,0 +1,83 @@
+C:\Users\Thea\AppData\Local\Temporary Projects\MaxMinPerceptrons\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Thea\AppData\Local\Temporary Projects\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.Form1.resources
+C:\Users\Thea\AppData\Local\Temporary Projects\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.Properties.Resources.resources
+C:\Users\Thea\AppData\Local\Temporary Projects\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.csproj.GenerateResource.Cache
+C:\Users\Thea\AppData\Local\Temporary Projects\MaxMinPerceptrons\bin\Debug\MaxMinPerceptrons.exe
+C:\Users\Thea\AppData\Local\Temporary Projects\MaxMinPerceptrons\bin\Debug\MaxMinPerceptrons.pdb
+C:\Users\Thea\AppData\Local\Temporary Projects\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.exe
+C:\Users\Thea\AppData\Local\Temporary Projects\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.pdb
+C:\Users\Thea\Artificial Inteligence\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.exe
+C:\Users\Thea\Artificial Inteligence\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.pdb
+C:\Users\Thea\Artificial Inteligence\MaxMinPerceptrons\MaxMinPerceptrons\bin\Debug\MaxMinPerceptrons.exe
+C:\Users\Thea\Artificial Inteligence\MaxMinPerceptrons\MaxMinPerceptrons\bin\Debug\MaxMinPerceptrons.pdb
+C:\Users\Thea\Artificial Inteligence\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Thea\Artificial Inteligence\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.Form1.resources
+C:\Users\Thea\Artificial Inteligence\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.Properties.Resources.resources
+C:\Users\Thea\Artificial Inteligence\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.pdb
+C:\Users\User\Desktop\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\MaxMinPerceptrons\bin\Debug\MaxMinPerceptrons.exe
+C:\Users\User\Desktop\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\MaxMinPerceptrons\bin\Debug\MaxMinPerceptrons.pdb
+C:\Users\User\Desktop\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.Form1.resources
+C:\Users\User\Desktop\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.Properties.Resources.resources
+C:\Users\User\Desktop\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.exe
+F:\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.exe
+F:\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.pdb
+F:\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\MaxMinPerceptrons\bin\Debug\MaxMinPerceptrons.exe
+F:\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\MaxMinPerceptrons\bin\Debug\MaxMinPerceptrons.pdb
+F:\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.Form1.resources
+F:\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.Properties.Resources.resources
+F:\C#-Max-Min-신경망\MaxMinPerceptrons\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.csproj.GenerateResource.Cache
+G:\max-Min-C#-소스\MaxMinPerceptrons\MaxMinPerceptrons\bin\Debug\MaxMinPerceptrons.exe
+G:\max-Min-C#-소스\MaxMinPerceptrons\MaxMinPerceptrons\bin\Debug\MaxMinPerceptrons.pdb
+G:\max-Min-C#-소스\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.Form1.resources
+G:\max-Min-C#-소스\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.Properties.Resources.resources
+G:\max-Min-C#-소스\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.csproj.GenerateResource.Cache
+G:\max-Min-C#-소스\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.csproj.CoreCompileInputs.cache
+G:\max-Min-C#-소스\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.exe
+G:\max-Min-C#-소스\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.pdb
+C:\C-언어예제\max-Min-C#-소스\MaxMinPerceptrons\MaxMinPerceptrons\bin\Debug\MaxMinPerceptrons.exe
+C:\C-언어예제\max-Min-C#-소스\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.Form1.resources
+C:\C-언어예제\max-Min-C#-소스\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.Properties.Resources.resources
+C:\C-언어예제\max-Min-C#-소스\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.csproj.GenerateResource.Cache
+C:\C-언어예제\max-Min-C#-소스\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.csproj.CoreCompileInputs.cache
+C:\C-언어예제\max-Min-C#-소스\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.exe
+C:\C-언어예제\max-Min-C#-소스\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.pdb
+C:\C-언어예제\max-Min-C#-소스\MaxMinPerceptrons\MaxMinPerceptrons\bin\Debug\MaxMinPerceptrons.pdb
+C:\C-언어예제\max-Min-C#-소스\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.csprojResolveAssemblyReference.cache
+C:\Users\mindo\Downloads\MaxMinPerceptrons\MaxMinPerceptrons\bin\Debug\MaxMinPerceptrons.exe
+C:\Users\mindo\Downloads\MaxMinPerceptrons\MaxMinPerceptrons\bin\Debug\MaxMinPerceptrons.pdb
+C:\Users\mindo\Downloads\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.csprojAssemblyReference.cache
+C:\Users\mindo\Downloads\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.Form1.resources
+C:\Users\mindo\Downloads\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.Properties.Resources.resources
+C:\Users\mindo\Downloads\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.csproj.GenerateResource.cache
+C:\Users\mindo\Downloads\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.csproj.CoreCompileInputs.cache
+C:\Users\mindo\Downloads\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.exe
+C:\Users\mindo\Downloads\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.pdb
+C:\Users\mindo\source\repos\MaxMinPerceptrons\MaxMinPerceptrons\bin\Debug\MaxMinPerceptrons.exe
+C:\Users\mindo\source\repos\MaxMinPerceptrons\MaxMinPerceptrons\bin\Debug\MaxMinPerceptrons.pdb
+C:\Users\mindo\source\repos\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.csprojAssemblyReference.cache
+C:\Users\mindo\source\repos\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.Form1.resources
+C:\Users\mindo\source\repos\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.Properties.Resources.resources
+C:\Users\mindo\source\repos\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.csproj.GenerateResource.cache
+C:\Users\mindo\source\repos\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.exe
+C:\Users\mindo\source\repos\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.pdb
+C:\Users\God_mind\Desktop\자료\MaxMinPerceptrons\MaxMinPerceptrons\bin\Debug\MaxMinPerceptrons.exe
+C:\Users\God_mind\Desktop\자료\MaxMinPerceptrons\MaxMinPerceptrons\bin\Debug\MaxMinPerceptrons.pdb
+C:\Users\God_mind\Desktop\자료\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.csprojAssemblyReference.cache
+C:\Users\God_mind\Desktop\자료\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.Form1.resources
+C:\Users\God_mind\Desktop\자료\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.Properties.Resources.resources
+C:\Users\God_mind\Desktop\자료\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.csproj.GenerateResource.cache
+C:\Users\God_mind\Desktop\자료\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.csproj.CoreCompileInputs.cache
+C:\Users\God_mind\Desktop\자료\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.exe
+C:\Users\God_mind\Desktop\자료\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.pdb
+C:\Users\God_mind\OneDrive\Desktop\자료\MaxMinPerceptrons\MaxMinPerceptrons\bin\Debug\MaxMinPerceptrons.exe
+C:\Users\God_mind\OneDrive\Desktop\자료\MaxMinPerceptrons\MaxMinPerceptrons\bin\Debug\MaxMinPerceptrons.pdb
+C:\Users\God_mind\OneDrive\Desktop\자료\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.csprojAssemblyReference.cache
+C:\Users\God_mind\OneDrive\Desktop\자료\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.Form1.resources
+C:\Users\God_mind\OneDrive\Desktop\자료\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.Properties.Resources.resources
+C:\Users\God_mind\OneDrive\Desktop\자료\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.csproj.GenerateResource.cache
+C:\Users\God_mind\OneDrive\Desktop\자료\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.csproj.CoreCompileInputs.cache
+C:\Users\God_mind\OneDrive\Desktop\자료\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.exe
+C:\Users\God_mind\OneDrive\Desktop\자료\MaxMinPerceptrons\MaxMinPerceptrons\obj\Debug\MaxMinPerceptrons.pdb
