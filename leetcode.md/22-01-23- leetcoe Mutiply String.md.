@@ -1,0 +1,12 @@
+class Solution:
+
+    def multiply(self, num1: str, num2: str) -> str:
+        totol = 0
+        for n1 in num1:
+            totol *= 10
+            product = 0
+            for n2 in num2:
+                product = product * 10 + int(n1) * int(n2)
+            totol += product
+        
+        return str(totol)
