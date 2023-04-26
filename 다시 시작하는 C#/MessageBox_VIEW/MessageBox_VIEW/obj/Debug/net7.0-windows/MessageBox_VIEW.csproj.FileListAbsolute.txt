@@ -1,0 +1,17 @@
+C:\Users\mindo\source\repos\MessageBox_VIEW\MessageBox_VIEW\bin\Debug\net7.0-windows\MessageBox_VIEW.exe
+C:\Users\mindo\source\repos\MessageBox_VIEW\MessageBox_VIEW\bin\Debug\net7.0-windows\MessageBox_VIEW.deps.json
+C:\Users\mindo\source\repos\MessageBox_VIEW\MessageBox_VIEW\bin\Debug\net7.0-windows\MessageBox_VIEW.runtimeconfig.json
+C:\Users\mindo\source\repos\MessageBox_VIEW\MessageBox_VIEW\bin\Debug\net7.0-windows\MessageBox_VIEW.dll
+C:\Users\mindo\source\repos\MessageBox_VIEW\MessageBox_VIEW\bin\Debug\net7.0-windows\MessageBox_VIEW.pdb
+C:\Users\mindo\source\repos\MessageBox_VIEW\MessageBox_VIEW\obj\Debug\net7.0-windows\MessageBox_VIEW.csproj.AssemblyReference.cache
+C:\Users\mindo\source\repos\MessageBox_VIEW\MessageBox_VIEW\obj\Debug\net7.0-windows\MessageBox_VIEW.Form1.resources
+C:\Users\mindo\source\repos\MessageBox_VIEW\MessageBox_VIEW\obj\Debug\net7.0-windows\MessageBox_VIEW.csproj.GenerateResource.cache
+C:\Users\mindo\source\repos\MessageBox_VIEW\MessageBox_VIEW\obj\Debug\net7.0-windows\MessageBox_VIEW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindo\source\repos\MessageBox_VIEW\MessageBox_VIEW\obj\Debug\net7.0-windows\MessageBox_VIEW.AssemblyInfoInputs.cache
+C:\Users\mindo\source\repos\MessageBox_VIEW\MessageBox_VIEW\obj\Debug\net7.0-windows\MessageBox_VIEW.AssemblyInfo.cs
+C:\Users\mindo\source\repos\MessageBox_VIEW\MessageBox_VIEW\obj\Debug\net7.0-windows\MessageBox_VIEW.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\MessageBox_VIEW\MessageBox_VIEW\obj\Debug\net7.0-windows\MessageBox_VIEW.dll
+C:\Users\mindo\source\repos\MessageBox_VIEW\MessageBox_VIEW\obj\Debug\net7.0-windows\refint\MessageBox_VIEW.dll
+C:\Users\mindo\source\repos\MessageBox_VIEW\MessageBox_VIEW\obj\Debug\net7.0-windows\MessageBox_VIEW.pdb
+C:\Users\mindo\source\repos\MessageBox_VIEW\MessageBox_VIEW\obj\Debug\net7.0-windows\MessageBox_VIEW.genruntimeconfig.cache
+C:\Users\mindo\source\repos\MessageBox_VIEW\MessageBox_VIEW\obj\Debug\net7.0-windows\ref\MessageBox_VIEW.dll

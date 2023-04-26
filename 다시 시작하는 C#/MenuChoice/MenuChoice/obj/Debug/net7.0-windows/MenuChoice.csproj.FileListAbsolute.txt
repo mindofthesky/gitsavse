@@ -1,0 +1,17 @@
+C:\Users\mindo\source\repos\MenuChoice\MenuChoice\bin\Debug\net7.0-windows\MenuChoice.exe
+C:\Users\mindo\source\repos\MenuChoice\MenuChoice\bin\Debug\net7.0-windows\MenuChoice.deps.json
+C:\Users\mindo\source\repos\MenuChoice\MenuChoice\bin\Debug\net7.0-windows\MenuChoice.runtimeconfig.json
+C:\Users\mindo\source\repos\MenuChoice\MenuChoice\bin\Debug\net7.0-windows\MenuChoice.dll
+C:\Users\mindo\source\repos\MenuChoice\MenuChoice\bin\Debug\net7.0-windows\MenuChoice.pdb
+C:\Users\mindo\source\repos\MenuChoice\MenuChoice\obj\Debug\net7.0-windows\MenuChoice.csproj.AssemblyReference.cache
+C:\Users\mindo\source\repos\MenuChoice\MenuChoice\obj\Debug\net7.0-windows\MenuChoice.Form1.resources
+C:\Users\mindo\source\repos\MenuChoice\MenuChoice\obj\Debug\net7.0-windows\MenuChoice.csproj.GenerateResource.cache
+C:\Users\mindo\source\repos\MenuChoice\MenuChoice\obj\Debug\net7.0-windows\MenuChoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindo\source\repos\MenuChoice\MenuChoice\obj\Debug\net7.0-windows\MenuChoice.AssemblyInfoInputs.cache
+C:\Users\mindo\source\repos\MenuChoice\MenuChoice\obj\Debug\net7.0-windows\MenuChoice.AssemblyInfo.cs
+C:\Users\mindo\source\repos\MenuChoice\MenuChoice\obj\Debug\net7.0-windows\MenuChoice.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\MenuChoice\MenuChoice\obj\Debug\net7.0-windows\MenuChoice.dll
+C:\Users\mindo\source\repos\MenuChoice\MenuChoice\obj\Debug\net7.0-windows\refint\MenuChoice.dll
+C:\Users\mindo\source\repos\MenuChoice\MenuChoice\obj\Debug\net7.0-windows\MenuChoice.pdb
+C:\Users\mindo\source\repos\MenuChoice\MenuChoice\obj\Debug\net7.0-windows\MenuChoice.genruntimeconfig.cache
+C:\Users\mindo\source\repos\MenuChoice\MenuChoice\obj\Debug\net7.0-windows\ref\MenuChoice.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MessageBox_VIEW/1.0.0": {
+        "runtime": {
+          "MessageBox_VIEW.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MessageBox_VIEW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
