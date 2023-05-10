@@ -1,0 +1,11 @@
+C:\Users\mindo\source\repos\Killer\Killer\bin\Debug\Killer.exe.config
+C:\Users\mindo\source\repos\Killer\Killer\bin\Debug\Killer.exe
+C:\Users\mindo\source\repos\Killer\Killer\bin\Debug\Killer.pdb
+C:\Users\mindo\source\repos\Killer\Killer\obj\Debug\Killer.csproj.AssemblyReference.cache
+C:\Users\mindo\source\repos\Killer\Killer\obj\Debug\Killer.csproj.SuggestedBindingRedirects.cache
+C:\Users\mindo\source\repos\Killer\Killer\obj\Debug\Killer.Form1.resources
+C:\Users\mindo\source\repos\Killer\Killer\obj\Debug\Killer.Properties.Resources.resources
+C:\Users\mindo\source\repos\Killer\Killer\obj\Debug\Killer.csproj.GenerateResource.cache
+C:\Users\mindo\source\repos\Killer\Killer\obj\Debug\Killer.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\Killer\Killer\obj\Debug\Killer.exe
+C:\Users\mindo\source\repos\Killer\Killer\obj\Debug\Killer.pdb

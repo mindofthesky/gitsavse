@@ -1,0 +1,14 @@
+C:\Users\mindo\source\repos\PreventKiller\PreventKiller\bin\Debug\PreventKiller.exe.config
+C:\Users\mindo\source\repos\PreventKiller\PreventKiller\bin\Debug\PreventKiller.exe
+C:\Users\mindo\source\repos\PreventKiller\PreventKiller\bin\Debug\PreventKiller.pdb
+C:\Users\mindo\source\repos\PreventKiller\PreventKiller\obj\Debug\PreventKiller.csproj.AssemblyReference.cache
+C:\Users\mindo\source\repos\PreventKiller\PreventKiller\obj\Debug\PreventKiller.csproj.SuggestedBindingRedirects.cache
+C:\Users\mindo\source\repos\PreventKiller\PreventKiller\obj\Debug\PreventKiller.Form1.resources
+C:\Users\mindo\source\repos\PreventKiller\PreventKiller\obj\Debug\PreventKiller.Properties.Resources.resources
+C:\Users\mindo\source\repos\PreventKiller\PreventKiller\obj\Debug\PreventKiller.csproj.GenerateResource.cache
+C:\Users\mindo\source\repos\PreventKiller\PreventKiller\obj\Debug\PreventKiller.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\PreventKiller\PreventKiller\obj\Debug\PreventKiller.exe
+C:\Users\mindo\source\repos\PreventKiller\PreventKiller\obj\Debug\PreventKiller.pdb
+C:\Users\mindo\source\repos\Killer\Killer\bin\Debug\PreventKiller.exe.config
+C:\Users\mindo\source\repos\Killer\Killer\bin\Debug\PreventKiller.exe
+C:\Users\mindo\source\repos\Killer\Killer\bin\Debug\PreventKiller.pdb

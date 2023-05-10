@@ -1,0 +1,11 @@
+C:\Users\mindo\source\repos\FileView\FileView\bin\Debug\FileView.exe.config
+C:\Users\mindo\source\repos\FileView\FileView\bin\Debug\FileView.exe
+C:\Users\mindo\source\repos\FileView\FileView\bin\Debug\FileView.pdb
+C:\Users\mindo\source\repos\FileView\FileView\obj\Debug\FileView.csproj.AssemblyReference.cache
+C:\Users\mindo\source\repos\FileView\FileView\obj\Debug\FileView.csproj.SuggestedBindingRedirects.cache
+C:\Users\mindo\source\repos\FileView\FileView\obj\Debug\FileView.Form1.resources
+C:\Users\mindo\source\repos\FileView\FileView\obj\Debug\FileView.Properties.Resources.resources
+C:\Users\mindo\source\repos\FileView\FileView\obj\Debug\FileView.csproj.GenerateResource.cache
+C:\Users\mindo\source\repos\FileView\FileView\obj\Debug\FileView.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\FileView\FileView\obj\Debug\FileView.exe
+C:\Users\mindo\source\repos\FileView\FileView\obj\Debug\FileView.pdb

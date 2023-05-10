@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "tenserflowTest", "tenserflowTest\tenserflowTest.pyproj", "{B2535608-FE2B-49B3-8164-E49F9ABC0D5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2535608-FE2B-49B3-8164-E49F9ABC0D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2535608-FE2B-49B3-8164-E49F9ABC0D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA813905-87FC-40A9-96C8-132F65DA0597}
+	EndGlobalSection
+EndGlobal

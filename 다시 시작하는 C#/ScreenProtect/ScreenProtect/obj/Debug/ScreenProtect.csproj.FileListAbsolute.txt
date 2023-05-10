@@ -1,0 +1,12 @@
+C:\Users\mindo\source\repos\ScreenProtect\ScreenProtect\bin\Debug\ScreenProtect.exe.config
+C:\Users\mindo\source\repos\ScreenProtect\ScreenProtect\bin\Debug\ScreenProtect.exe
+C:\Users\mindo\source\repos\ScreenProtect\ScreenProtect\bin\Debug\ScreenProtect.pdb
+C:\Users\mindo\source\repos\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.csproj.AssemblyReference.cache
+C:\Users\mindo\source\repos\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.csproj.SuggestedBindingRedirects.cache
+C:\Users\mindo\source\repos\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.Form1.resources
+C:\Users\mindo\source\repos\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.Properties.Resources.resources
+C:\Users\mindo\source\repos\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.csproj.GenerateResource.cache
+C:\Users\mindo\source\repos\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.exe
+C:\Users\mindo\source\repos\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.pdb
+C:\Users\mindo\source\repos\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.Form2.resources
