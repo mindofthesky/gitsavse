@@ -1,0 +1,11 @@
+C:\Users\mindo\source\repos\myphtolo\CardGame.Base\bin\Debug\net7.0\CardGame.Base.deps.json
+C:\Users\mindo\source\repos\myphtolo\CardGame.Base\bin\Debug\net7.0\CardGame.Base.dll
+C:\Users\mindo\source\repos\myphtolo\CardGame.Base\bin\Debug\net7.0\CardGame.Base.pdb
+C:\Users\mindo\source\repos\myphtolo\CardGame.Base\obj\Debug\net7.0\CardGame.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindo\source\repos\myphtolo\CardGame.Base\obj\Debug\net7.0\CardGame.Base.AssemblyInfoInputs.cache
+C:\Users\mindo\source\repos\myphtolo\CardGame.Base\obj\Debug\net7.0\CardGame.Base.AssemblyInfo.cs
+C:\Users\mindo\source\repos\myphtolo\CardGame.Base\obj\Debug\net7.0\CardGame.Base.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\myphtolo\CardGame.Base\obj\Debug\net7.0\CardGame.Base.dll
+C:\Users\mindo\source\repos\myphtolo\CardGame.Base\obj\Debug\net7.0\refint\CardGame.Base.dll
+C:\Users\mindo\source\repos\myphtolo\CardGame.Base\obj\Debug\net7.0\CardGame.Base.pdb
+C:\Users\mindo\source\repos\myphtolo\CardGame.Base\obj\Debug\net7.0\ref\CardGame.Base.dll

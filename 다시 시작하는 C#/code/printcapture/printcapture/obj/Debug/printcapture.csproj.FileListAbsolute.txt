@@ -1,0 +1,10 @@
+C:\Users\mindo\source\repos\printcapture\printcapture\bin\Debug\printcapture.exe.config
+C:\Users\mindo\source\repos\printcapture\printcapture\bin\Debug\printcapture.exe
+C:\Users\mindo\source\repos\printcapture\printcapture\bin\Debug\printcapture.pdb
+C:\Users\mindo\source\repos\printcapture\printcapture\obj\Debug\printcapture.csproj.AssemblyReference.cache
+C:\Users\mindo\source\repos\printcapture\printcapture\obj\Debug\printcapture.Form1.resources
+C:\Users\mindo\source\repos\printcapture\printcapture\obj\Debug\printcapture.Properties.Resources.resources
+C:\Users\mindo\source\repos\printcapture\printcapture\obj\Debug\printcapture.csproj.GenerateResource.cache
+C:\Users\mindo\source\repos\printcapture\printcapture\obj\Debug\printcapture.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\printcapture\printcapture\obj\Debug\printcapture.exe
+C:\Users\mindo\source\repos\printcapture\printcapture\obj\Debug\printcapture.pdb

@@ -1,0 +1,16 @@
+C:\Users\mindo\source\repos\myphtolo\DNFTCG\bin\Debug\net7.0-windows\DNFTCG.exe
+C:\Users\mindo\source\repos\myphtolo\DNFTCG\bin\Debug\net7.0-windows\DNFTCG.deps.json
+C:\Users\mindo\source\repos\myphtolo\DNFTCG\bin\Debug\net7.0-windows\DNFTCG.runtimeconfig.json
+C:\Users\mindo\source\repos\myphtolo\DNFTCG\bin\Debug\net7.0-windows\DNFTCG.dll
+C:\Users\mindo\source\repos\myphtolo\DNFTCG\bin\Debug\net7.0-windows\DNFTCG.pdb
+C:\Users\mindo\source\repos\myphtolo\DNFTCG\obj\Debug\net7.0-windows\DNFTCG.Form1.resources
+C:\Users\mindo\source\repos\myphtolo\DNFTCG\obj\Debug\net7.0-windows\DNFTCG.csproj.GenerateResource.cache
+C:\Users\mindo\source\repos\myphtolo\DNFTCG\obj\Debug\net7.0-windows\DNFTCG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindo\source\repos\myphtolo\DNFTCG\obj\Debug\net7.0-windows\DNFTCG.AssemblyInfoInputs.cache
+C:\Users\mindo\source\repos\myphtolo\DNFTCG\obj\Debug\net7.0-windows\DNFTCG.AssemblyInfo.cs
+C:\Users\mindo\source\repos\myphtolo\DNFTCG\obj\Debug\net7.0-windows\DNFTCG.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\myphtolo\DNFTCG\obj\Debug\net7.0-windows\DNFTCG.dll
+C:\Users\mindo\source\repos\myphtolo\DNFTCG\obj\Debug\net7.0-windows\refint\DNFTCG.dll
+C:\Users\mindo\source\repos\myphtolo\DNFTCG\obj\Debug\net7.0-windows\DNFTCG.pdb
+C:\Users\mindo\source\repos\myphtolo\DNFTCG\obj\Debug\net7.0-windows\DNFTCG.genruntimeconfig.cache
+C:\Users\mindo\source\repos\myphtolo\DNFTCG\obj\Debug\net7.0-windows\ref\DNFTCG.dll

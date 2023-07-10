@@ -1,0 +1,4 @@
+C:\Users\mindo\source\repos\myphtolo\Console\obj\Debug\net7.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindo\source\repos\myphtolo\Console\obj\Debug\net7.0\Console.AssemblyInfoInputs.cache
+C:\Users\mindo\source\repos\myphtolo\Console\obj\Debug\net7.0\Console.AssemblyInfo.cs
+C:\Users\mindo\source\repos\myphtolo\Console\obj\Debug\net7.0\Console.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\Users\mindo\source\repos\columheadertest\columheadertest\bin\Debug\columheadertest.exe.config
+C:\Users\mindo\source\repos\columheadertest\columheadertest\bin\Debug\columheadertest.exe
+C:\Users\mindo\source\repos\columheadertest\columheadertest\bin\Debug\columheadertest.pdb
+C:\Users\mindo\source\repos\columheadertest\columheadertest\obj\Debug\columheadertest.csproj.AssemblyReference.cache
+C:\Users\mindo\source\repos\columheadertest\columheadertest\obj\Debug\columheadertest.Form1.resources
+C:\Users\mindo\source\repos\columheadertest\columheadertest\obj\Debug\columheadertest.Properties.Resources.resources
+C:\Users\mindo\source\repos\columheadertest\columheadertest\obj\Debug\columheadertest.csproj.GenerateResource.cache
+C:\Users\mindo\source\repos\columheadertest\columheadertest\obj\Debug\columheadertest.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\columheadertest\columheadertest\obj\Debug\columheadertest.exe
+C:\Users\mindo\source\repos\columheadertest\columheadertest\obj\Debug\columheadertest.pdb

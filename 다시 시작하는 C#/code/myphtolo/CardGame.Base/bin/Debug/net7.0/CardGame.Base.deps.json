@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CardGame.Base/1.0.0": {
+        "runtime": {
+          "CardGame.Base.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CardGame.Base/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,4 @@
+C:\Users\mindo\source\repos\myphtolo\CardGame.Engine\obj\Debug\net7.0\CardGame.Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindo\source\repos\myphtolo\CardGame.Engine\obj\Debug\net7.0\CardGame.Engine.AssemblyInfoInputs.cache
+C:\Users\mindo\source\repos\myphtolo\CardGame.Engine\obj\Debug\net7.0\CardGame.Engine.AssemblyInfo.cs
+C:\Users\mindo\source\repos\myphtolo\CardGame.Engine\obj\Debug\net7.0\CardGame.Engine.csproj.CoreCompileInputs.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "myphtolo", "myphtolo\myphtolo.csproj", "{7B044346-52CB-4C65-852B-059DD454BB77}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DNFTCG", "DNFTCG\DNFTCG.csproj", "{5B8E9E9E-7898-4F82-AF99-E104A5821479}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B044346-52CB-4C65-852B-059DD454BB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B044346-52CB-4C65-852B-059DD454BB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B044346-52CB-4C65-852B-059DD454BB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B044346-52CB-4C65-852B-059DD454BB77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B8E9E9E-7898-4F82-AF99-E104A5821479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8E9E9E-7898-4F82-AF99-E104A5821479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B8E9E9E-7898-4F82-AF99-E104A5821479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B8E9E9E-7898-4F82-AF99-E104A5821479}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B747943D-9747-43AB-8735-3E52C65C852D}
+	EndGlobalSection
+EndGlobal
