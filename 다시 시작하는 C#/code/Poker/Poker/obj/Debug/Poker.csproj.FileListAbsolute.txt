@@ -1,0 +1,9 @@
+C:\Users\mindo\source\repos\Poker\Poker\bin\Debug\Poker.exe.config
+C:\Users\mindo\source\repos\Poker\Poker\bin\Debug\Poker.exe
+C:\Users\mindo\source\repos\Poker\Poker\bin\Debug\Poker.pdb
+C:\Users\mindo\source\repos\Poker\Poker\obj\Debug\Poker.csproj.AssemblyReference.cache
+C:\Users\mindo\source\repos\Poker\Poker\obj\Debug\Poker.Properties.Resources.resources
+C:\Users\mindo\source\repos\Poker\Poker\obj\Debug\Poker.csproj.GenerateResource.cache
+C:\Users\mindo\source\repos\Poker\Poker\obj\Debug\Poker.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\Poker\Poker\obj\Debug\Poker.exe
+C:\Users\mindo\source\repos\Poker\Poker\obj\Debug\Poker.pdb
