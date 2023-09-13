@@ -1,0 +1,16 @@
+C:\Users\mindo\source\repos\restartcal\restartcal\bin\Debug\net7.0-windows\restartcal.exe
+C:\Users\mindo\source\repos\restartcal\restartcal\bin\Debug\net7.0-windows\restartcal.deps.json
+C:\Users\mindo\source\repos\restartcal\restartcal\bin\Debug\net7.0-windows\restartcal.runtimeconfig.json
+C:\Users\mindo\source\repos\restartcal\restartcal\bin\Debug\net7.0-windows\restartcal.dll
+C:\Users\mindo\source\repos\restartcal\restartcal\bin\Debug\net7.0-windows\restartcal.pdb
+C:\Users\mindo\source\repos\restartcal\restartcal\obj\Debug\net7.0-windows\restartcal.Form1.resources
+C:\Users\mindo\source\repos\restartcal\restartcal\obj\Debug\net7.0-windows\restartcal.csproj.GenerateResource.cache
+C:\Users\mindo\source\repos\restartcal\restartcal\obj\Debug\net7.0-windows\restartcal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindo\source\repos\restartcal\restartcal\obj\Debug\net7.0-windows\restartcal.AssemblyInfoInputs.cache
+C:\Users\mindo\source\repos\restartcal\restartcal\obj\Debug\net7.0-windows\restartcal.AssemblyInfo.cs
+C:\Users\mindo\source\repos\restartcal\restartcal\obj\Debug\net7.0-windows\restartcal.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\restartcal\restartcal\obj\Debug\net7.0-windows\restartcal.dll
+C:\Users\mindo\source\repos\restartcal\restartcal\obj\Debug\net7.0-windows\refint\restartcal.dll
+C:\Users\mindo\source\repos\restartcal\restartcal\obj\Debug\net7.0-windows\restartcal.pdb
+C:\Users\mindo\source\repos\restartcal\restartcal\obj\Debug\net7.0-windows\restartcal.genruntimeconfig.cache
+C:\Users\mindo\source\repos\restartcal\restartcal\obj\Debug\net7.0-windows\ref\restartcal.dll
