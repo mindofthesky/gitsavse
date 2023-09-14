@@ -1,0 +1,16 @@
+C:\Users\mindo\source\repos\restart_tcp_ip\restart_tcp_ip\obj\Debug\net7.0-windows\restart_tcp_ip.Form1.resources
+C:\Users\mindo\source\repos\restart_tcp_ip\restart_tcp_ip\obj\Debug\net7.0-windows\restart_tcp_ip.csproj.GenerateResource.cache
+C:\Users\mindo\source\repos\restart_tcp_ip\restart_tcp_ip\obj\Debug\net7.0-windows\restart_tcp_ip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindo\source\repos\restart_tcp_ip\restart_tcp_ip\obj\Debug\net7.0-windows\restart_tcp_ip.AssemblyInfoInputs.cache
+C:\Users\mindo\source\repos\restart_tcp_ip\restart_tcp_ip\obj\Debug\net7.0-windows\restart_tcp_ip.AssemblyInfo.cs
+C:\Users\mindo\source\repos\restart_tcp_ip\restart_tcp_ip\obj\Debug\net7.0-windows\restart_tcp_ip.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\restart_tcp_ip\restart_tcp_ip\bin\Debug\net7.0-windows\restart_tcp_ip.exe
+C:\Users\mindo\source\repos\restart_tcp_ip\restart_tcp_ip\bin\Debug\net7.0-windows\restart_tcp_ip.deps.json
+C:\Users\mindo\source\repos\restart_tcp_ip\restart_tcp_ip\bin\Debug\net7.0-windows\restart_tcp_ip.runtimeconfig.json
+C:\Users\mindo\source\repos\restart_tcp_ip\restart_tcp_ip\bin\Debug\net7.0-windows\restart_tcp_ip.dll
+C:\Users\mindo\source\repos\restart_tcp_ip\restart_tcp_ip\bin\Debug\net7.0-windows\restart_tcp_ip.pdb
+C:\Users\mindo\source\repos\restart_tcp_ip\restart_tcp_ip\obj\Debug\net7.0-windows\restart_tcp_ip.dll
+C:\Users\mindo\source\repos\restart_tcp_ip\restart_tcp_ip\obj\Debug\net7.0-windows\refint\restart_tcp_ip.dll
+C:\Users\mindo\source\repos\restart_tcp_ip\restart_tcp_ip\obj\Debug\net7.0-windows\restart_tcp_ip.pdb
+C:\Users\mindo\source\repos\restart_tcp_ip\restart_tcp_ip\obj\Debug\net7.0-windows\restart_tcp_ip.genruntimeconfig.cache
+C:\Users\mindo\source\repos\restart_tcp_ip\restart_tcp_ip\obj\Debug\net7.0-windows\ref\restart_tcp_ip.dll

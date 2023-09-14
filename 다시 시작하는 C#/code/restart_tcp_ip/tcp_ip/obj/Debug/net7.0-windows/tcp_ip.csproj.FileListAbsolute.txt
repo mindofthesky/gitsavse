@@ -1,0 +1,16 @@
+C:\Users\mindo\source\repos\restart_tcp_ip\tcp_ip\bin\Debug\net7.0-windows\tcp_ip.exe
+C:\Users\mindo\source\repos\restart_tcp_ip\tcp_ip\bin\Debug\net7.0-windows\tcp_ip.deps.json
+C:\Users\mindo\source\repos\restart_tcp_ip\tcp_ip\bin\Debug\net7.0-windows\tcp_ip.runtimeconfig.json
+C:\Users\mindo\source\repos\restart_tcp_ip\tcp_ip\bin\Debug\net7.0-windows\tcp_ip.dll
+C:\Users\mindo\source\repos\restart_tcp_ip\tcp_ip\bin\Debug\net7.0-windows\tcp_ip.pdb
+C:\Users\mindo\source\repos\restart_tcp_ip\tcp_ip\obj\Debug\net7.0-windows\tcp_ip.Form1.resources
+C:\Users\mindo\source\repos\restart_tcp_ip\tcp_ip\obj\Debug\net7.0-windows\tcp_ip.csproj.GenerateResource.cache
+C:\Users\mindo\source\repos\restart_tcp_ip\tcp_ip\obj\Debug\net7.0-windows\tcp_ip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindo\source\repos\restart_tcp_ip\tcp_ip\obj\Debug\net7.0-windows\tcp_ip.AssemblyInfoInputs.cache
+C:\Users\mindo\source\repos\restart_tcp_ip\tcp_ip\obj\Debug\net7.0-windows\tcp_ip.AssemblyInfo.cs
+C:\Users\mindo\source\repos\restart_tcp_ip\tcp_ip\obj\Debug\net7.0-windows\tcp_ip.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\restart_tcp_ip\tcp_ip\obj\Debug\net7.0-windows\tcp_ip.dll
+C:\Users\mindo\source\repos\restart_tcp_ip\tcp_ip\obj\Debug\net7.0-windows\refint\tcp_ip.dll
+C:\Users\mindo\source\repos\restart_tcp_ip\tcp_ip\obj\Debug\net7.0-windows\tcp_ip.pdb
+C:\Users\mindo\source\repos\restart_tcp_ip\tcp_ip\obj\Debug\net7.0-windows\tcp_ip.genruntimeconfig.cache
+C:\Users\mindo\source\repos\restart_tcp_ip\tcp_ip\obj\Debug\net7.0-windows\ref\tcp_ip.dll

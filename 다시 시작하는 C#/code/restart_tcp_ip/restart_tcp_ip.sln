@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "restart_tcp_ip", "restart_tcp_ip\restart_tcp_ip.csproj", "{C9FD63B5-020A-4C2C-A8AE-2FA1AD896D1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tcp_ip", "tcp_ip\tcp_ip.csproj", "{3960593F-47D6-47A6-8299-B266B0A17943}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9FD63B5-020A-4C2C-A8AE-2FA1AD896D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9FD63B5-020A-4C2C-A8AE-2FA1AD896D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9FD63B5-020A-4C2C-A8AE-2FA1AD896D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9FD63B5-020A-4C2C-A8AE-2FA1AD896D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3960593F-47D6-47A6-8299-B266B0A17943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3960593F-47D6-47A6-8299-B266B0A17943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3960593F-47D6-47A6-8299-B266B0A17943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3960593F-47D6-47A6-8299-B266B0A17943}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CD2876B-4D8B-4F58-9D29-3D9C03DA908E}
+	EndGlobalSection
+EndGlobal
