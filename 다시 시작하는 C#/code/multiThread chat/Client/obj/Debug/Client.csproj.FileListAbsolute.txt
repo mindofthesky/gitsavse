@@ -1,0 +1,11 @@
+C:\Users\mindo\source\repos\Client\Client\bin\Debug\Client.exe.config
+C:\Users\mindo\source\repos\Client\Client\bin\Debug\Client.exe
+C:\Users\mindo\source\repos\Client\Client\bin\Debug\Client.pdb
+C:\Users\mindo\source\repos\Client\Client\bin\Debug\ServerData.pdb
+C:\Users\mindo\source\repos\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\mindo\source\repos\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\mindo\source\repos\Client\Client\obj\Debug\Client.exe
+C:\Users\mindo\source\repos\Client\Client\obj\Debug\Client.pdb
+C:\Users\mindo\source\repos\Client\Client\bin\Debug\ServerData.dll
+C:\Users\mindo\source\repos\Client\Client\bin\Debug\ServerData.dll.config

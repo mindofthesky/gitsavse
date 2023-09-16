@@ -1,0 +1,13 @@
+C:\Users\mindo\source\repos\Client\Server\bin\Debug\Server.exe.config
+C:\Users\mindo\source\repos\Client\Server\bin\Debug\Server.exe
+C:\Users\mindo\source\repos\Client\Server\bin\Debug\Server.pdb
+C:\Users\mindo\source\repos\Client\Server\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mindo\source\repos\Client\Server\bin\Debug\ServerData.dll
+C:\Users\mindo\source\repos\Client\Server\bin\Debug\ServerData.pdb
+C:\Users\mindo\source\repos\Client\Server\bin\Debug\ServerData.dll.config
+C:\Users\mindo\source\repos\Client\Server\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\mindo\source\repos\Client\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\mindo\source\repos\Client\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\Client\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\mindo\source\repos\Client\Server\obj\Debug\Server.exe
+C:\Users\mindo\source\repos\Client\Server\obj\Debug\Server.pdb

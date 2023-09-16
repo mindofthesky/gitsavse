@@ -1,0 +1,7 @@
+C:\Users\mindo\source\repos\Client\ServerData\bin\Debug\ServerData.dll.config
+C:\Users\mindo\source\repos\Client\ServerData\bin\Debug\ServerData.dll
+C:\Users\mindo\source\repos\Client\ServerData\bin\Debug\ServerData.pdb
+C:\Users\mindo\source\repos\Client\ServerData\obj\Debug\ServerData.csproj.AssemblyReference.cache
+C:\Users\mindo\source\repos\Client\ServerData\obj\Debug\ServerData.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\Client\ServerData\obj\Debug\ServerData.dll
+C:\Users\mindo\source\repos\Client\ServerData\obj\Debug\ServerData.pdb
