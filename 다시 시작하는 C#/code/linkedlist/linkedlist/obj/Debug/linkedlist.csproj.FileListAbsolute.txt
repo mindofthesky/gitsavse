@@ -1,0 +1,7 @@
+C:\Users\mindo\source\repos\linkedlist\linkedlist\bin\Debug\linkedlist.exe.config
+C:\Users\mindo\source\repos\linkedlist\linkedlist\bin\Debug\linkedlist.exe
+C:\Users\mindo\source\repos\linkedlist\linkedlist\bin\Debug\linkedlist.pdb
+C:\Users\mindo\source\repos\linkedlist\linkedlist\obj\Debug\linkedlist.csproj.AssemblyReference.cache
+C:\Users\mindo\source\repos\linkedlist\linkedlist\obj\Debug\linkedlist.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\linkedlist\linkedlist\obj\Debug\linkedlist.exe
+C:\Users\mindo\source\repos\linkedlist\linkedlist\obj\Debug\linkedlist.pdb
