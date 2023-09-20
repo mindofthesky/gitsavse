@@ -1,0 +1,16 @@
+C:\Users\mindo\source\repos\Task_A_Await\Task_A_Await\bin\Debug\net7.0-windows\Task_A_Await.exe
+C:\Users\mindo\source\repos\Task_A_Await\Task_A_Await\bin\Debug\net7.0-windows\Task_A_Await.deps.json
+C:\Users\mindo\source\repos\Task_A_Await\Task_A_Await\bin\Debug\net7.0-windows\Task_A_Await.runtimeconfig.json
+C:\Users\mindo\source\repos\Task_A_Await\Task_A_Await\bin\Debug\net7.0-windows\Task_A_Await.dll
+C:\Users\mindo\source\repos\Task_A_Await\Task_A_Await\bin\Debug\net7.0-windows\Task_A_Await.pdb
+C:\Users\mindo\source\repos\Task_A_Await\Task_A_Await\obj\Debug\net7.0-windows\Task_A_Await.Form1.resources
+C:\Users\mindo\source\repos\Task_A_Await\Task_A_Await\obj\Debug\net7.0-windows\Task_A_Await.csproj.GenerateResource.cache
+C:\Users\mindo\source\repos\Task_A_Await\Task_A_Await\obj\Debug\net7.0-windows\Task_A_Await.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindo\source\repos\Task_A_Await\Task_A_Await\obj\Debug\net7.0-windows\Task_A_Await.AssemblyInfoInputs.cache
+C:\Users\mindo\source\repos\Task_A_Await\Task_A_Await\obj\Debug\net7.0-windows\Task_A_Await.AssemblyInfo.cs
+C:\Users\mindo\source\repos\Task_A_Await\Task_A_Await\obj\Debug\net7.0-windows\Task_A_Await.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\Task_A_Await\Task_A_Await\obj\Debug\net7.0-windows\Task_A_Await.dll
+C:\Users\mindo\source\repos\Task_A_Await\Task_A_Await\obj\Debug\net7.0-windows\refint\Task_A_Await.dll
+C:\Users\mindo\source\repos\Task_A_Await\Task_A_Await\obj\Debug\net7.0-windows\Task_A_Await.pdb
+C:\Users\mindo\source\repos\Task_A_Await\Task_A_Await\obj\Debug\net7.0-windows\Task_A_Await.genruntimeconfig.cache
+C:\Users\mindo\source\repos\Task_A_Await\Task_A_Await\obj\Debug\net7.0-windows\ref\Task_A_Await.dll
