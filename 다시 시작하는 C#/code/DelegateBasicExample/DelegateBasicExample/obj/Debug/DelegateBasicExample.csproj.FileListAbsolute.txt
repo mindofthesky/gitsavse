@@ -1,0 +1,7 @@
+C:\Users\mindo\source\repos\DelegateBasicExample\DelegateBasicExample\bin\Debug\DelegateBasicExample.exe.config
+C:\Users\mindo\source\repos\DelegateBasicExample\DelegateBasicExample\bin\Debug\DelegateBasicExample.exe
+C:\Users\mindo\source\repos\DelegateBasicExample\DelegateBasicExample\bin\Debug\DelegateBasicExample.pdb
+C:\Users\mindo\source\repos\DelegateBasicExample\DelegateBasicExample\obj\Debug\DelegateBasicExample.csproj.AssemblyReference.cache
+C:\Users\mindo\source\repos\DelegateBasicExample\DelegateBasicExample\obj\Debug\DelegateBasicExample.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\DelegateBasicExample\DelegateBasicExample\obj\Debug\DelegateBasicExample.exe
+C:\Users\mindo\source\repos\DelegateBasicExample\DelegateBasicExample\obj\Debug\DelegateBasicExample.pdb
