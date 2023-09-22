@@ -1,0 +1,7 @@
+C:\Users\mindo\source\repos\GenrericExample\GenrericExample\bin\Debug\GenrericExample.exe.config
+C:\Users\mindo\source\repos\GenrericExample\GenrericExample\bin\Debug\GenrericExample.exe
+C:\Users\mindo\source\repos\GenrericExample\GenrericExample\bin\Debug\GenrericExample.pdb
+C:\Users\mindo\source\repos\GenrericExample\GenrericExample\obj\Debug\GenrericExample.csproj.AssemblyReference.cache
+C:\Users\mindo\source\repos\GenrericExample\GenrericExample\obj\Debug\GenrericExample.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\GenrericExample\GenrericExample\obj\Debug\GenrericExample.exe
+C:\Users\mindo\source\repos\GenrericExample\GenrericExample\obj\Debug\GenrericExample.pdb
