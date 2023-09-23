@@ -1,0 +1,11 @@
+C:\Users\mindo\source\repos\HardWareManageMent\HardManageMentAPI\bin\Debug\net7.0\HardManageMentAPI.deps.json
+C:\Users\mindo\source\repos\HardWareManageMent\HardManageMentAPI\bin\Debug\net7.0\HardManageMentAPI.dll
+C:\Users\mindo\source\repos\HardWareManageMent\HardManageMentAPI\bin\Debug\net7.0\HardManageMentAPI.pdb
+C:\Users\mindo\source\repos\HardWareManageMent\HardManageMentAPI\obj\Debug\net7.0\HardManageMentAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindo\source\repos\HardWareManageMent\HardManageMentAPI\obj\Debug\net7.0\HardManageMentAPI.AssemblyInfoInputs.cache
+C:\Users\mindo\source\repos\HardWareManageMent\HardManageMentAPI\obj\Debug\net7.0\HardManageMentAPI.AssemblyInfo.cs
+C:\Users\mindo\source\repos\HardWareManageMent\HardManageMentAPI\obj\Debug\net7.0\HardManageMentAPI.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\HardWareManageMent\HardManageMentAPI\obj\Debug\net7.0\HardManageMentAPI.dll
+C:\Users\mindo\source\repos\HardWareManageMent\HardManageMentAPI\obj\Debug\net7.0\refint\HardManageMentAPI.dll
+C:\Users\mindo\source\repos\HardWareManageMent\HardManageMentAPI\obj\Debug\net7.0\HardManageMentAPI.pdb
+C:\Users\mindo\source\repos\HardWareManageMent\HardManageMentAPI\obj\Debug\net7.0\ref\HardManageMentAPI.dll

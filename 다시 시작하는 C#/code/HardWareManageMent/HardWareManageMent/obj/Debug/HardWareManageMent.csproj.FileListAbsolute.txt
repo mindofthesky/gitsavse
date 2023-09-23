@@ -1,0 +1,7 @@
+C:\Users\mindo\source\repos\HardWareManageMent\HardWareManageMent\bin\Debug\HardWareManageMent.exe.config
+C:\Users\mindo\source\repos\HardWareManageMent\HardWareManageMent\bin\Debug\HardWareManageMent.exe
+C:\Users\mindo\source\repos\HardWareManageMent\HardWareManageMent\bin\Debug\HardWareManageMent.pdb
+C:\Users\mindo\source\repos\HardWareManageMent\HardWareManageMent\obj\Debug\HardWareManageMent.csproj.AssemblyReference.cache
+C:\Users\mindo\source\repos\HardWareManageMent\HardWareManageMent\obj\Debug\HardWareManageMent.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\HardWareManageMent\HardWareManageMent\obj\Debug\HardWareManageMent.exe
+C:\Users\mindo\source\repos\HardWareManageMent\HardWareManageMent\obj\Debug\HardWareManageMent.pdb
