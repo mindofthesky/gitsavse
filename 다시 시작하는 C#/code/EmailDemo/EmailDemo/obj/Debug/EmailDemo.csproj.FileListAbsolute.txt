@@ -1,0 +1,12 @@
+C:\Users\mindo\source\repos\EmailDemo\EmailDemo\bin\Debug\EmailDemo.exe.config
+C:\Users\mindo\source\repos\EmailDemo\EmailDemo\bin\Debug\EmailDemo.exe
+C:\Users\mindo\source\repos\EmailDemo\EmailDemo\bin\Debug\EmailDemo.pdb
+C:\Users\mindo\source\repos\EmailDemo\EmailDemo\bin\Debug\FluentEmail.Core.dll
+C:\Users\mindo\source\repos\EmailDemo\EmailDemo\bin\Debug\FluentEmail.Smtp.dll
+C:\Users\mindo\source\repos\EmailDemo\EmailDemo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mindo\source\repos\EmailDemo\EmailDemo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\mindo\source\repos\EmailDemo\EmailDemo\obj\Debug\EmailDemo.csproj.AssemblyReference.cache
+C:\Users\mindo\source\repos\EmailDemo\EmailDemo\obj\Debug\EmailDemo.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\EmailDemo\EmailDemo\obj\Debug\EmailDemo.csproj.CopyComplete
+C:\Users\mindo\source\repos\EmailDemo\EmailDemo\obj\Debug\EmailDemo.exe
+C:\Users\mindo\source\repos\EmailDemo\EmailDemo\obj\Debug\EmailDemo.pdb
