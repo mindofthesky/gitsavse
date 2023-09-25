@@ -1,0 +1,7 @@
+C:\Users\mindo\source\repos\LINQExample1\LINQExample1\obj\Debug\LINQExample1.csproj.AssemblyReference.cache
+C:\Users\mindo\source\repos\LINQExample1\LINQExample1\obj\Debug\LINQExample1.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\LINQExample1\LINQExample1\bin\Debug\LINQExample1.exe.config
+C:\Users\mindo\source\repos\LINQExample1\LINQExample1\bin\Debug\LINQExample1.exe
+C:\Users\mindo\source\repos\LINQExample1\LINQExample1\bin\Debug\LINQExample1.pdb
+C:\Users\mindo\source\repos\LINQExample1\LINQExample1\obj\Debug\LINQExample1.exe
+C:\Users\mindo\source\repos\LINQExample1\LINQExample1\obj\Debug\LINQExample1.pdb
