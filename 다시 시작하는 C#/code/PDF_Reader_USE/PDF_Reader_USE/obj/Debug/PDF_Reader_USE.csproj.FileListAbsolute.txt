@@ -1,0 +1,15 @@
+C:\Users\mindo\source\repos\PDF_Reader_USE\PDF_Reader_USE\bin\Debug\PDF_Reader_USE.exe.config
+C:\Users\mindo\source\repos\PDF_Reader_USE\PDF_Reader_USE\bin\Debug\PDF_Reader_USE.exe
+C:\Users\mindo\source\repos\PDF_Reader_USE\PDF_Reader_USE\bin\Debug\PDF_Reader_USE.pdb
+C:\Users\mindo\source\repos\PDF_Reader_USE\PDF_Reader_USE\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\mindo\source\repos\PDF_Reader_USE\PDF_Reader_USE\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\mindo\source\repos\PDF_Reader_USE\PDF_Reader_USE\obj\Debug\PDF_Reader_USE.csproj.AssemblyReference.cache
+C:\Users\mindo\source\repos\PDF_Reader_USE\PDF_Reader_USE\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\mindo\source\repos\PDF_Reader_USE\PDF_Reader_USE\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\mindo\source\repos\PDF_Reader_USE\PDF_Reader_USE\obj\Debug\PDF_Reader_USE.csproj.ResolveComReference.cache
+C:\Users\mindo\source\repos\PDF_Reader_USE\PDF_Reader_USE\obj\Debug\PDF_Reader_USE.Form1.resources
+C:\Users\mindo\source\repos\PDF_Reader_USE\PDF_Reader_USE\obj\Debug\PDF_Reader_USE.Properties.Resources.resources
+C:\Users\mindo\source\repos\PDF_Reader_USE\PDF_Reader_USE\obj\Debug\PDF_Reader_USE.csproj.GenerateResource.cache
+C:\Users\mindo\source\repos\PDF_Reader_USE\PDF_Reader_USE\obj\Debug\PDF_Reader_USE.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\PDF_Reader_USE\PDF_Reader_USE\obj\Debug\PDF_Reader_USE.exe
+C:\Users\mindo\source\repos\PDF_Reader_USE\PDF_Reader_USE\obj\Debug\PDF_Reader_USE.pdb
