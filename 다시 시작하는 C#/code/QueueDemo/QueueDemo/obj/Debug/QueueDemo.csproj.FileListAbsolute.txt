@@ -1,0 +1,7 @@
+C:\Users\mindo\source\repos\QueueDemo\QueueDemo\bin\Debug\QueueDemo.exe.config
+C:\Users\mindo\source\repos\QueueDemo\QueueDemo\bin\Debug\QueueDemo.exe
+C:\Users\mindo\source\repos\QueueDemo\QueueDemo\bin\Debug\QueueDemo.pdb
+C:\Users\mindo\source\repos\QueueDemo\QueueDemo\obj\Debug\QueueDemo.csproj.AssemblyReference.cache
+C:\Users\mindo\source\repos\QueueDemo\QueueDemo\obj\Debug\QueueDemo.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\QueueDemo\QueueDemo\obj\Debug\QueueDemo.exe
+C:\Users\mindo\source\repos\QueueDemo\QueueDemo\obj\Debug\QueueDemo.pdb
