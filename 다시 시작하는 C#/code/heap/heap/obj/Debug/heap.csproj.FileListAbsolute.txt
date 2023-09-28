@@ -1,0 +1,7 @@
+C:\Users\mindo\source\repos\heap\heap\bin\Debug\heap.exe.config
+C:\Users\mindo\source\repos\heap\heap\bin\Debug\heap.exe
+C:\Users\mindo\source\repos\heap\heap\bin\Debug\heap.pdb
+C:\Users\mindo\source\repos\heap\heap\obj\Debug\heap.csproj.AssemblyReference.cache
+C:\Users\mindo\source\repos\heap\heap\obj\Debug\heap.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\heap\heap\obj\Debug\heap.exe
+C:\Users\mindo\source\repos\heap\heap\obj\Debug\heap.pdb
