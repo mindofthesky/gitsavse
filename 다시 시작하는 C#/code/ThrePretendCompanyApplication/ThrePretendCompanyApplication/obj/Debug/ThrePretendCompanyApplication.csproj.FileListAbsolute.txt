@@ -1,0 +1,7 @@
+C:\Users\mindo\source\repos\ThrePretendCompanyApplication\ThrePretendCompanyApplication\bin\Debug\ThrePretendCompanyApplication.exe.config
+C:\Users\mindo\source\repos\ThrePretendCompanyApplication\ThrePretendCompanyApplication\bin\Debug\ThrePretendCompanyApplication.exe
+C:\Users\mindo\source\repos\ThrePretendCompanyApplication\ThrePretendCompanyApplication\bin\Debug\ThrePretendCompanyApplication.pdb
+C:\Users\mindo\source\repos\ThrePretendCompanyApplication\ThrePretendCompanyApplication\obj\Debug\ThrePretendCompanyApplication.csproj.AssemblyReference.cache
+C:\Users\mindo\source\repos\ThrePretendCompanyApplication\ThrePretendCompanyApplication\obj\Debug\ThrePretendCompanyApplication.csproj.CoreCompileInputs.cache
+C:\Users\mindo\source\repos\ThrePretendCompanyApplication\ThrePretendCompanyApplication\obj\Debug\ThrePretendCompanyApplication.exe
+C:\Users\mindo\source\repos\ThrePretendCompanyApplication\ThrePretendCompanyApplication\obj\Debug\ThrePretendCompanyApplication.pdb
