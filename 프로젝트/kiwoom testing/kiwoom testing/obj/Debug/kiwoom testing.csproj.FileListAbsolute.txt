@@ -1,0 +1,15 @@
+C:\Users\ms_cr\source\repos\kiwoom testing\kiwoom testing\bin\Debug\kiwoom testing.exe.config
+C:\Users\ms_cr\source\repos\kiwoom testing\kiwoom testing\bin\Debug\kiwoom testing.exe
+C:\Users\ms_cr\source\repos\kiwoom testing\kiwoom testing\bin\Debug\kiwoom testing.pdb
+C:\Users\ms_cr\source\repos\kiwoom testing\kiwoom testing\bin\Debug\Interop.KHOpenAPILib.dll
+C:\Users\ms_cr\source\repos\kiwoom testing\kiwoom testing\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\ms_cr\source\repos\kiwoom testing\kiwoom testing\obj\Debug\kiwoom testing.csproj.AssemblyReference.cache
+C:\Users\ms_cr\source\repos\kiwoom testing\kiwoom testing\obj\Debug\Interop.KHOpenAPILib.dll
+C:\Users\ms_cr\source\repos\kiwoom testing\kiwoom testing\obj\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\ms_cr\source\repos\kiwoom testing\kiwoom testing\obj\Debug\kiwoom testing.csproj.ResolveComReference.cache
+C:\Users\ms_cr\source\repos\kiwoom testing\kiwoom testing\obj\Debug\kiwoom_testing.Form1.resources
+C:\Users\ms_cr\source\repos\kiwoom testing\kiwoom testing\obj\Debug\kiwoom_testing.Properties.Resources.resources
+C:\Users\ms_cr\source\repos\kiwoom testing\kiwoom testing\obj\Debug\kiwoom testing.csproj.GenerateResource.cache
+C:\Users\ms_cr\source\repos\kiwoom testing\kiwoom testing\obj\Debug\kiwoom testing.csproj.CoreCompileInputs.cache
+C:\Users\ms_cr\source\repos\kiwoom testing\kiwoom testing\obj\Debug\kiwoom testing.exe
+C:\Users\ms_cr\source\repos\kiwoom testing\kiwoom testing\obj\Debug\kiwoom testing.pdb
